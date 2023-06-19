@@ -1,0 +1,18 @@
+.container{
+    border: 1px solid green;
+    padding: 20px;
+    overflow-x: hidden;
+    max-width: 100%;
+    margin: 10px;
+    background: linear-gradient(to right,#fdfdfd,#eaf9da);
+}
+.container h1{
+    text-align: left;
+    text-overflow: initial;
+    text-shadow: 2px 2px 0.8px green;
+    font-weight: 100;
+
+}
+.container p{
+    text-align: left;
+}
